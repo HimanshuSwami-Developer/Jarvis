@@ -6,5 +6,5 @@ requests
 command
 flask
 agent
-socket
-speech_recognition
+socketserver
+SpeechRecognition
