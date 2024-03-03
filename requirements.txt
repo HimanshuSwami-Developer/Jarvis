@@ -1,0 +1,10 @@
+requests
+task
+pyttsx3
+config 
+requests
+command
+flask
+agent
+socket
+speech_recognition
